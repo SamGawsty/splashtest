@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/splashtest/static/css/main.0a523d5a.chunk.css",
+    "main.js": "/splashtest/static/js/main.cdfdeaff.chunk.js",
+    "main.js.map": "/splashtest/static/js/main.cdfdeaff.chunk.js.map",
+    "runtime-main.js": "/splashtest/static/js/runtime-main.bab052c5.js",
+    "runtime-main.js.map": "/splashtest/static/js/runtime-main.bab052c5.js.map",
+    "static/js/2.fb65db24.chunk.js": "/splashtest/static/js/2.fb65db24.chunk.js",
+    "static/js/2.fb65db24.chunk.js.map": "/splashtest/static/js/2.fb65db24.chunk.js.map",
+    "index.html": "/splashtest/index.html",
+    "precache-manifest.26c9fdbe2e38f767e67d0878e1dab9d3.js": "/splashtest/precache-manifest.26c9fdbe2e38f767e67d0878e1dab9d3.js",
+    "service-worker.js": "/splashtest/service-worker.js",
+    "static/css/main.0a523d5a.chunk.css.map": "/splashtest/static/css/main.0a523d5a.chunk.css.map",
+    "static/js/2.fb65db24.chunk.js.LICENSE.txt": "/splashtest/static/js/2.fb65db24.chunk.js.LICENSE.txt",
+    "static/media/laptop-1.svg": "/splashtest/static/media/laptop-1.93ca6d44.svg",
+    "static/media/man-holding-box.svg": "/splashtest/static/media/man-holding-box.6b7b3871.svg",
+    "static/media/progress-bar.svg": "/splashtest/static/media/progress-bar.c8abdd52.svg",
+    "static/media/woman-scooter.svg": "/splashtest/static/media/woman-scooter.ac38cb47.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bab052c5.js",
+    "static/js/2.fb65db24.chunk.js",
+    "static/css/main.0a523d5a.chunk.css",
+    "static/js/main.cdfdeaff.chunk.js"
+  ]
+}
